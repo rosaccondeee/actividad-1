@@ -1,16 +1,38 @@
-
-
 h1 {
-    background-color: blueviolet;
+    background-color:beige;
+    display: inline-block;
+    width: 30%;
 }
 
 h3{
-    background-color: black;
+    background-color: aqua;
+    display: inline-block;
 }
 
 h2{
     background-color: brown;
 }
 p {
-    margin: 2px;
+    
+    width: 90%;
+}
+div class{
+
+}
+.Azul{
+    background-color: fuchsia;
+    display: inline-block;
+    width: 10%;
+
+}
+.Rojo{
+    background-color: crimson;
+    display: inline-block;
+    width: 10%;
+}
+
+.Violeta{
+    background-color: blueviolet;
+    display: inline-block;
+    width:10%;
 }
